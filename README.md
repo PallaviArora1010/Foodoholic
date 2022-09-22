@@ -1,5 +1,5 @@
 # Foodoholic
-Foodoholic is a restaurant website.
+Foodoholic is a responsive restaurant website.
 
 Our menu contains 6 categories for the customer to order from. 
 They can also reserve a table with us through the website or on the phone.
